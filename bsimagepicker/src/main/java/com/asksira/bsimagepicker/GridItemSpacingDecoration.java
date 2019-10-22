@@ -1,8 +1,9 @@
 package com.asksira.bsimagepicker;
 
 import android.graphics.Rect;
-import android.support.v7.widget.RecyclerView;
 import android.view.View;
+
+import androidx.recyclerview.widget.RecyclerView;
 
 /**
  * Copied from https://stackoverflow.com/a/30701422/7870874
